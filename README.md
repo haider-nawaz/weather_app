@@ -22,5 +22,5 @@ API_KEY = "" (WeatherAPI key)
 GOOGLE_API_KEY = "" (Google Cloud API Key)
 
 ### Last Step:
-Save, ccompile and run the project.
+Save, compile and run the project.
 
