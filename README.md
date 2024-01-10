@@ -1,6 +1,6 @@
 # Weather App (Made in Flutter)
 
-A weather app utilising https://www.weatherapi.com/ and Places Api from Google Gloud to display weather details and forecast. 
+A weather app utilising https://www.weatherapi.com/ and Places API from Google Gloud to display weather details and forecast. 
 
 ![screenshots](https://github.com/haider-nawaz/weather_app/assets/117274118/5093636b-36ea-4559-bdeb-be79ab9573b5)
 
