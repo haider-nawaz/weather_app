@@ -9,18 +9,17 @@ Try the APK: https://drive.google.com/file/d/1X_foZnsmCBfIfspP9gLeFUqkU_eTYEAX/v
 
 ## Follow the steps to run the flutter code in your machine.
 
-#Step 1:
+### Step 1:
 Make an account on https://www.weatherapi.com/ and get the API key.
 Similary get the API key from you Google Cloud Account (Note: Enable the following APIS : PLaces API, Geocoding API and Geolocating API)
 
-#Step 2: 
+### Step 2: 
 Make an .env file in the root of your project. 
 And paste both keys there, like this:
 
 API_KEY = "" (WeatherAPI key)
 GOOGLE_API_KEY = "" (Google Cloud API Key)
 
-#Last Step:
-
+### Last Step:
 Save,ccompile and run the project.
 
