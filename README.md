@@ -1,16 +1,26 @@
-# weather_app
+# Weather App (Made in Flutter)
 
-A new Flutter project.
+A weather app utilising https://www.weatherapi.com/ and Places Api from Google Gloud to display weather details and forecast. 
 
-## Getting Started
+![screenshots](https://github.com/haider-nawaz/weather_app/assets/117274118/5093636b-36ea-4559-bdeb-be79ab9573b5)
 
-This project is a starting point for a Flutter application.
+Try the APK: https://drive.google.com/file/d/1X_foZnsmCBfIfspP9gLeFUqkU_eTYEAX/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Follow the steps to run the flutter code in your machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Step 1:
+Make an account on https://www.weatherapi.com/ and get the API key.
+Similary get the API key from you Google Cloud Account (Note: Enable the following APIS : PLaces API, Geocoding API and Geolocating API)
+
+#Step 2: 
+Make an .env file in the root of your project. 
+And paste both keys there, like this:
+
+API_KEY = "" (WeatherAPI key)
+GOOGLE_API_KEY = "" (Google Cloud API Key)
+
+#Last Step:
+
+Save,ccompile and run the project.
+
